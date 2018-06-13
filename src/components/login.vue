@@ -66,11 +66,10 @@ export default {
 };
 </script>
 
-<style >
+<style>
 #login {
   min-height: 100%;
   /*height: 100%;*/
   background: url(../assets/img/bg.png) right 50% no-repeat;
 }
-
 </style>
